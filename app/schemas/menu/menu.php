@@ -475,6 +475,10 @@ $schema = [
                     'href' => 'cart.cart_list',
                     'position' => 500,
                 ],
+                'Employee' => [
+                    'href' => 'employees.manage',
+                    'position' => 500,
+                ],
             ],
             'position' => 100,
         ],
